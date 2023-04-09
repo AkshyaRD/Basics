@@ -10,6 +10,12 @@ int main()
 	
 	float f=8.9;
 	printf("%f \n",f);
+	
+	int a;
+	printf("Enter: ");
+	scanf("%d",&a);
+	printf("%d",a);
+	
+	return 0;
 }
-
 
