@@ -30,3 +30,8 @@ In C programming, scanf() is one of the commonly used function to take input fro
 
 ## return 0
 The return 0; statement inside the main() function is the "Exit status" of the program. It's optional.
+
+### OUTPUT SCREENSHOT
+![image](https://user-images.githubusercontent.com/91966613/234335071-801a578f-fc1f-4862-a2fb-0fb26cdff5f9.png)  
+
+
